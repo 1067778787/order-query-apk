@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.orderquery",
+  "appName": "订单发货查询",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "http://localhost",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#f1f5f9"
+  }
+}
